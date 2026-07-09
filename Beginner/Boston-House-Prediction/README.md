@@ -82,11 +82,11 @@ Boston-House-Prediction/
 
 ### Correlation Heatmap
 
-![Heatmap](images/heatmap.png)
+![Heatmap](images/heatmap%20(1).png)
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/feature_importance%20(1).png)
 
 ### Actual vs Predicted Prices
 
